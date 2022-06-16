@@ -1,4 +1,4 @@
-# symfony-crud
+# Installation
 
 ```bash
   git clone https://github.com/kaanonur/symfony-crud.git
